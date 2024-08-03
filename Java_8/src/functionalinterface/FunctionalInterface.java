@@ -1,4 +1,4 @@
-package lambdaexpressions;
+package functionalinterface;
 
 import java.io.PrintWriter;
 
